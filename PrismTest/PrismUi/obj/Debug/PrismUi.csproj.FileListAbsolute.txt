@@ -1,0 +1,5 @@
+C:\Users\okechukwu ononeze\Documents\Visual Studio 2015\Projects\PrismTest\PrismUi\obj\Debug\PrismUi.csprojResolveAssemblyReference.cache
+C:\Users\okechukwu ononeze\Documents\Visual Studio 2015\Projects\PrismTest\PrismUi\obj\Debug\ViewModels\PrismViewModel.g.cs
+C:\Users\okechukwu ononeze\Documents\Visual Studio 2015\Projects\PrismTest\PrismUi\obj\Debug\Views\PrismView.g.cs
+C:\Users\okechukwu ononeze\Documents\Visual Studio 2015\Projects\PrismTest\PrismUi\obj\Debug\PrismUi_MarkupCompile.cache
+C:\Users\okechukwu ononeze\Documents\Visual Studio 2015\Projects\PrismTest\PrismUi\obj\Debug\PrismUi_MarkupCompile.lref

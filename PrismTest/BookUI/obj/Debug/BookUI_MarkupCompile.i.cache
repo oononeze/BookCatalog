@@ -1,0 +1,20 @@
+﻿BookUI
+
+
+winexe
+C#
+.cs
+C:\Users\okechukwu ononeze\Documents\Visual Studio 2015\Projects\PrismTest\BookUI\obj\Debug\
+BookUI
+none
+false
+DEBUG;TRACE
+
+9991014171
+
+181490168349
+24-865728592
+App.xaml;CrudViews\AddBookView.xaml;CrudViews\AddCategory.xaml;ViewModels\BookDetailsViewModel.xaml;ViewModels\BookViewModel.xaml;Views\Admin.xaml;Views\BookDetails.xaml;Views\BookView.xaml;Views\LoginView.xaml;
+
+False
+
